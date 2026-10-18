@@ -19,4 +19,3 @@ Unity · C# · TypeScript · React · three.js / WebGPU · Rust · Tauri · Node
 ## Elsewhere
 
 - Projects: [harshal.dev](https://harshal.dev)
-- LinkedIn: [harshalnarkhede1](https://www.linkedin.com/in/harshalnarkhede1/)
